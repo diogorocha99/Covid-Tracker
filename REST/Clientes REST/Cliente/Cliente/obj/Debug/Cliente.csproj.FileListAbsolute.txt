@@ -1,0 +1,204 @@
+D:\3 ANO\ISI\TP2\REST\Clientes REST\Cliente\Cliente\bin\Debug\Cliente.exe.config
+D:\3 ANO\ISI\TP2\REST\Clientes REST\Cliente\Cliente\bin\Debug\Cliente.exe
+D:\3 ANO\ISI\TP2\REST\Clientes REST\Cliente\Cliente\bin\Debug\Cliente.pdb
+D:\3 ANO\ISI\TP2\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+D:\3 ANO\ISI\TP2\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+D:\3 ANO\ISI\TP2\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+D:\3 ANO\ISI\TP2\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+D:\3 ANO\ISI\TP2\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+D:\3 ANO\ISI\TP2\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.exe
+D:\3 ANO\ISI\TP2\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.pdb
+D:\3 ANO\ISI\TP2\REST\Clientes REST\Cliente\Cliente\bin\Debug\Newtonsoft.Json.dll
+D:\3 ANO\ISI\TP2\REST\Clientes REST\Cliente\Cliente\bin\Debug\Newtonsoft.Json.xml
+D:\3 ANO\ISI\TP2\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+D:\3 ANO\ISI\TP2\REST\Clientes REST\Cliente\Cliente\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\3 ANO\ISI\TP2\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Buffers.dll
+D:\3 ANO\ISI\TP2\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Memory.dll
+D:\3 ANO\ISI\TP2\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Numerics.Vectors.dll
+D:\3 ANO\ISI\TP2\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\3 ANO\ISI\TP2\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Text.Encodings.Web.dll
+D:\3 ANO\ISI\TP2\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Text.Json.dll
+D:\3 ANO\ISI\TP2\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\3 ANO\ISI\TP2\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.ValueTuple.dll
+D:\3 ANO\ISI\TP2\REST\Clientes REST\Cliente\Cliente\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\3 ANO\ISI\TP2\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Buffers.xml
+D:\3 ANO\ISI\TP2\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Memory.xml
+D:\3 ANO\ISI\TP2\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Numerics.Vectors.xml
+D:\3 ANO\ISI\TP2\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\3 ANO\ISI\TP2\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Text.Encodings.Web.xml
+D:\3 ANO\ISI\TP2\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Text.Json.xml
+D:\3 ANO\ISI\TP2\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\3 ANO\ISI\TP2\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.ValueTuple.xml
+D:\3 ANO\ISI\TP2\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Net.Http.Extensions.dll
+D:\3 ANO\ISI\TP2\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Net.Http.Formatting.dll
+D:\3 ANO\ISI\TP2\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Net.Http.Primitives.dll
+D:\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\Cliente.exe.config
+D:\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\Cliente.exe
+D:\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\Cliente.pdb
+D:\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\Newtonsoft.Json.dll
+D:\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Buffers.dll
+D:\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Memory.dll
+D:\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Net.Http.Extensions.dll
+D:\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Net.Http.Formatting.dll
+D:\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Net.Http.Primitives.dll
+D:\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Numerics.Vectors.dll
+D:\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Text.Encodings.Web.dll
+D:\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Text.Json.dll
+D:\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.ValueTuple.dll
+D:\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\Newtonsoft.Json.xml
+D:\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Buffers.xml
+D:\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Memory.xml
+D:\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Numerics.Vectors.xml
+D:\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Text.Encodings.Web.xml
+D:\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Text.Json.xml
+D:\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.ValueTuple.xml
+D:\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+D:\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+D:\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+D:\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+D:\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+D:\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+D:\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.exe
+D:\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.pdb
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Buffers.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Memory.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Text.Json.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.ValueTuple.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Buffers.xml
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Memory.xml
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Text.Json.xml
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.ValueTuple.xml
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.pdb
+C:\Users\Diogo\Desktop\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Diogo\Desktop\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\Diogo\Desktop\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Diogo\Desktop\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Buffers.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Memory.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Text.Json.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.ValueTuple.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Diogo\Desktop\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Diogo\Desktop\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Buffers.xml
+C:\Users\Diogo\Desktop\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Memory.xml
+C:\Users\Diogo\Desktop\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Diogo\Desktop\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Diogo\Desktop\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Diogo\Desktop\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Text.Json.xml
+C:\Users\Diogo\Desktop\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Diogo\Desktop\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.ValueTuple.xml
+C:\Users\Diogo\Desktop\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\Diogo\Desktop\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\Diogo\Desktop\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Diogo\Desktop\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\Diogo\Desktop\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\Desktop\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+C:\Users\Diogo\Desktop\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\Diogo\Desktop\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.pdb
+D:\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\Cliente.exe.config
+D:\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\Cliente.exe
+D:\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\Cliente.pdb
+D:\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\Newtonsoft.Json.dll
+D:\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Buffers.dll
+D:\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Memory.dll
+D:\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Net.Http.Extensions.dll
+D:\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Net.Http.Formatting.dll
+D:\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Net.Http.Primitives.dll
+D:\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Numerics.Vectors.dll
+D:\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Text.Encodings.Web.dll
+D:\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Text.Json.dll
+D:\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.ValueTuple.dll
+D:\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\Newtonsoft.Json.xml
+D:\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Buffers.xml
+D:\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Memory.xml
+D:\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Numerics.Vectors.xml
+D:\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Text.Encodings.Web.xml
+D:\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Text.Json.xml
+D:\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.ValueTuple.xml
+D:\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+D:\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+D:\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+D:\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+D:\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+D:\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+D:\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.exe
+D:\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.pdb
+D:\IPCA\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\Cliente.exe.config
+D:\IPCA\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\Cliente.exe
+D:\IPCA\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\Cliente.pdb
+D:\IPCA\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IPCA\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\Newtonsoft.Json.dll
+D:\IPCA\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Buffers.dll
+D:\IPCA\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Memory.dll
+D:\IPCA\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Net.Http.Extensions.dll
+D:\IPCA\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Net.Http.Formatting.dll
+D:\IPCA\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Net.Http.Primitives.dll
+D:\IPCA\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Numerics.Vectors.dll
+D:\IPCA\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\IPCA\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Text.Encodings.Web.dll
+D:\IPCA\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Text.Json.dll
+D:\IPCA\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\IPCA\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.ValueTuple.dll
+D:\IPCA\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\IPCA\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\Newtonsoft.Json.xml
+D:\IPCA\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Buffers.xml
+D:\IPCA\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Memory.xml
+D:\IPCA\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Numerics.Vectors.xml
+D:\IPCA\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\IPCA\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Text.Encodings.Web.xml
+D:\IPCA\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Text.Json.xml
+D:\IPCA\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\IPCA\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\bin\Debug\System.ValueTuple.xml
+D:\IPCA\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+D:\IPCA\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+D:\IPCA\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+D:\IPCA\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+D:\IPCA\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+D:\IPCA\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+D:\IPCA\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.exe
+D:\IPCA\3 ANO\ISI\TP2ISI_16966\TP2ISI_16966\REST\Clientes REST\Cliente\Cliente\obj\Debug\Cliente.pdb

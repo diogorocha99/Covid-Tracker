@@ -1,0 +1,195 @@
+D:\3 ANO\ISI\TP2\TP2\obj\Debug\net5.0\TP2.csprojAssemblyReference.cache
+D:\3 ANO\ISI\TP2\TP2\obj\Debug\net5.0\TP2.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 ANO\ISI\TP2\TP2\obj\Debug\net5.0\TP2.AssemblyInfoInputs.cache
+D:\3 ANO\ISI\TP2\TP2\obj\Debug\net5.0\TP2.AssemblyInfo.cs
+D:\3 ANO\ISI\TP2\TP2\obj\Debug\net5.0\TP2.csproj.CoreCompileInputs.cache
+D:\3 ANO\ISI\TP2\TP2\obj\Debug\net5.0\TP2.MvcApplicationPartsAssemblyInfo.cs
+D:\3 ANO\ISI\TP2\TP2\obj\Debug\net5.0\TP2.MvcApplicationPartsAssemblyInfo.cache
+D:\3 ANO\ISI\TP2\TP2\bin\Debug\net5.0\appsettings.Development.json
+D:\3 ANO\ISI\TP2\TP2\bin\Debug\net5.0\appsettings.json
+D:\3 ANO\ISI\TP2\TP2\bin\Debug\net5.0\TP2.exe
+D:\3 ANO\ISI\TP2\TP2\bin\Debug\net5.0\TP2.deps.json
+D:\3 ANO\ISI\TP2\TP2\bin\Debug\net5.0\TP2.runtimeconfig.json
+D:\3 ANO\ISI\TP2\TP2\bin\Debug\net5.0\TP2.runtimeconfig.dev.json
+D:\3 ANO\ISI\TP2\TP2\bin\Debug\net5.0\TP2.dll
+D:\3 ANO\ISI\TP2\TP2\bin\Debug\net5.0\ref\TP2.dll
+D:\3 ANO\ISI\TP2\TP2\bin\Debug\net5.0\TP2.pdb
+D:\3 ANO\ISI\TP2\TP2\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\3 ANO\ISI\TP2\TP2\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\3 ANO\ISI\TP2\TP2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\3 ANO\ISI\TP2\TP2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\3 ANO\ISI\TP2\TP2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\3 ANO\ISI\TP2\TP2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\3 ANO\ISI\TP2\TP2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\3 ANO\ISI\TP2\TP2\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\3 ANO\ISI\TP2\TP2\bin\Debug\net5.0\Npgsql.dll
+D:\3 ANO\ISI\TP2\TP2\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\3 ANO\ISI\TP2\TP2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\3 ANO\ISI\TP2\TP2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\3 ANO\ISI\TP2\TP2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\3 ANO\ISI\TP2\TP2\obj\Debug\net5.0\staticwebassets\TP2.StaticWebAssets.Manifest.cache
+D:\3 ANO\ISI\TP2\TP2\obj\Debug\net5.0\staticwebassets\TP2.StaticWebAssets.xml
+D:\3 ANO\ISI\TP2\TP2\obj\Debug\net5.0\scopedcss\bundle\TP2.styles.css
+D:\3 ANO\ISI\TP2\TP2\obj\Debug\net5.0\TP2.RazorTargetAssemblyInfo.cache
+D:\3 ANO\ISI\TP2\TP2\obj\Debug\net5.0\TP2.csproj.CopyComplete
+D:\3 ANO\ISI\TP2\TP2\obj\Debug\net5.0\TP2.dll
+D:\3 ANO\ISI\TP2\TP2\obj\Debug\net5.0\ref\TP2.dll
+D:\3 ANO\ISI\TP2\TP2\obj\Debug\net5.0\TP2.pdb
+D:\3 ANO\ISI\TP2\TP2\obj\Debug\net5.0\TP2.genruntimeconfig.cache
+D:\3 ANO\ISI\TP2\TP2\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\bin\Debug\net5.0\appsettings.Development.json
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\bin\Debug\net5.0\appsettings.json
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\bin\Debug\net5.0\TP2.exe
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\bin\Debug\net5.0\TP2.deps.json
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\bin\Debug\net5.0\TP2.runtimeconfig.json
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\bin\Debug\net5.0\TP2.runtimeconfig.dev.json
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\bin\Debug\net5.0\TP2.dll
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\bin\Debug\net5.0\ref\TP2.dll
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\bin\Debug\net5.0\TP2.pdb
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\bin\Debug\net5.0\Npgsql.dll
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\obj\Debug\net5.0\TP2.csprojAssemblyReference.cache
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\obj\Debug\net5.0\TP2.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\obj\Debug\net5.0\TP2.AssemblyInfoInputs.cache
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\obj\Debug\net5.0\TP2.AssemblyInfo.cs
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\obj\Debug\net5.0\TP2.csproj.CoreCompileInputs.cache
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\obj\Debug\net5.0\TP2.MvcApplicationPartsAssemblyInfo.cs
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\obj\Debug\net5.0\TP2.MvcApplicationPartsAssemblyInfo.cache
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\obj\Debug\net5.0\staticwebassets\TP2.StaticWebAssets.Manifest.cache
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\obj\Debug\net5.0\staticwebassets\TP2.StaticWebAssets.xml
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\obj\Debug\net5.0\scopedcss\bundle\TP2.styles.css
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\obj\Debug\net5.0\TP2.RazorTargetAssemblyInfo.cache
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\obj\Debug\net5.0\TP2.csproj.CopyComplete
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\obj\Debug\net5.0\TP2.dll
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\obj\Debug\net5.0\ref\TP2.dll
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\obj\Debug\net5.0\TP2.pdb
+D:\3 ANO\ISI\TP2\REST\Serviços REST\TP2\obj\Debug\net5.0\TP2.genruntimeconfig.cache
+D:\Teste\ServiçosREST\TP2\bin\Debug\net5.0\appsettings.Development.json
+D:\Teste\ServiçosREST\TP2\bin\Debug\net5.0\appsettings.json
+D:\Teste\ServiçosREST\TP2\bin\Debug\net5.0\TP2.exe
+D:\Teste\ServiçosREST\TP2\bin\Debug\net5.0\TP2.deps.json
+D:\Teste\ServiçosREST\TP2\bin\Debug\net5.0\TP2.runtimeconfig.json
+D:\Teste\ServiçosREST\TP2\bin\Debug\net5.0\TP2.runtimeconfig.dev.json
+D:\Teste\ServiçosREST\TP2\bin\Debug\net5.0\TP2.dll
+D:\Teste\ServiçosREST\TP2\bin\Debug\net5.0\ref\TP2.dll
+D:\Teste\ServiçosREST\TP2\bin\Debug\net5.0\TP2.pdb
+D:\Teste\ServiçosREST\TP2\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Teste\ServiçosREST\TP2\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Teste\ServiçosREST\TP2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Teste\ServiçosREST\TP2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Teste\ServiçosREST\TP2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Teste\ServiçosREST\TP2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Teste\ServiçosREST\TP2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Teste\ServiçosREST\TP2\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Teste\ServiçosREST\TP2\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Teste\ServiçosREST\TP2\bin\Debug\net5.0\Npgsql.dll
+D:\Teste\ServiçosREST\TP2\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Teste\ServiçosREST\TP2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Teste\ServiçosREST\TP2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Teste\ServiçosREST\TP2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Teste\ServiçosREST\TP2\obj\Debug\net5.0\TP2.csprojAssemblyReference.cache
+D:\Teste\ServiçosREST\TP2\obj\Debug\net5.0\TP2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Teste\ServiçosREST\TP2\obj\Debug\net5.0\TP2.AssemblyInfoInputs.cache
+D:\Teste\ServiçosREST\TP2\obj\Debug\net5.0\TP2.AssemblyInfo.cs
+D:\Teste\ServiçosREST\TP2\obj\Debug\net5.0\TP2.csproj.CoreCompileInputs.cache
+D:\Teste\ServiçosREST\TP2\obj\Debug\net5.0\TP2.MvcApplicationPartsAssemblyInfo.cs
+D:\Teste\ServiçosREST\TP2\obj\Debug\net5.0\TP2.MvcApplicationPartsAssemblyInfo.cache
+D:\Teste\ServiçosREST\TP2\obj\Debug\net5.0\staticwebassets\TP2.StaticWebAssets.Manifest.cache
+D:\Teste\ServiçosREST\TP2\obj\Debug\net5.0\staticwebassets\TP2.StaticWebAssets.xml
+D:\Teste\ServiçosREST\TP2\obj\Debug\net5.0\scopedcss\bundle\TP2.styles.css
+D:\Teste\ServiçosREST\TP2\obj\Debug\net5.0\TP2.RazorTargetAssemblyInfo.cache
+D:\Teste\ServiçosREST\TP2\obj\Debug\net5.0\TP2.csproj.CopyComplete
+D:\Teste\ServiçosREST\TP2\obj\Debug\net5.0\TP2.dll
+D:\Teste\ServiçosREST\TP2\obj\Debug\net5.0\ref\TP2.dll
+D:\Teste\ServiçosREST\TP2\obj\Debug\net5.0\TP2.pdb
+D:\Teste\ServiçosREST\TP2\obj\Debug\net5.0\TP2.genruntimeconfig.cache
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\appsettings.Development.json
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\appsettings.json
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\TP2.exe
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\TP2.deps.json
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\TP2.runtimeconfig.json
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\TP2.runtimeconfig.dev.json
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\TP2.dll
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\ref\TP2.dll
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\TP2.pdb
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\Npgsql.dll
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\obj\Debug\net5.0\TP2.csprojAssemblyReference.cache
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\obj\Debug\net5.0\TP2.GeneratedMSBuildEditorConfig.editorconfig
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\obj\Debug\net5.0\TP2.AssemblyInfoInputs.cache
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\obj\Debug\net5.0\TP2.AssemblyInfo.cs
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\obj\Debug\net5.0\TP2.csproj.CoreCompileInputs.cache
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\obj\Debug\net5.0\TP2.MvcApplicationPartsAssemblyInfo.cs
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\obj\Debug\net5.0\TP2.MvcApplicationPartsAssemblyInfo.cache
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\obj\Debug\net5.0\staticwebassets\TP2.StaticWebAssets.Manifest.cache
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\obj\Debug\net5.0\staticwebassets\TP2.StaticWebAssets.xml
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\obj\Debug\net5.0\scopedcss\bundle\TP2.styles.css
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\obj\Debug\net5.0\TP2.RazorTargetAssemblyInfo.cache
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\obj\Debug\net5.0\TP2.csproj.CopyComplete
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\obj\Debug\net5.0\TP2.dll
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\obj\Debug\net5.0\ref\TP2.dll
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\obj\Debug\net5.0\TP2.pdb
+D:\TP2ISI_16966\REST\ServiçosREST\TP2\obj\Debug\net5.0\TP2.genruntimeconfig.cache
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\appsettings.json
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\TP2.exe
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\TP2.deps.json
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\TP2.runtimeconfig.json
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\TP2.runtimeconfig.dev.json
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\TP2.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\ref\TP2.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\TP2.pdb
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\Npgsql.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\obj\Debug\net5.0\TP2.csprojAssemblyReference.cache
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\obj\Debug\net5.0\TP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\obj\Debug\net5.0\TP2.AssemblyInfoInputs.cache
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\obj\Debug\net5.0\TP2.AssemblyInfo.cs
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\obj\Debug\net5.0\TP2.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\obj\Debug\net5.0\TP2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\obj\Debug\net5.0\TP2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\obj\Debug\net5.0\staticwebassets\TP2.StaticWebAssets.Manifest.cache
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\obj\Debug\net5.0\staticwebassets\TP2.StaticWebAssets.xml
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\obj\Debug\net5.0\scopedcss\bundle\TP2.styles.css
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\obj\Debug\net5.0\TP2.RazorTargetAssemblyInfo.cache
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\obj\Debug\net5.0\TP2.csproj.CopyComplete
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\obj\Debug\net5.0\TP2.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\obj\Debug\net5.0\ref\TP2.dll
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\obj\Debug\net5.0\TP2.pdb
+C:\Users\Diogo\Desktop\TP2ISI_16966\REST\ServiçosREST\TP2\obj\Debug\net5.0\TP2.genruntimeconfig.cache
